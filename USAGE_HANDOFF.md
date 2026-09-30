@@ -1,6 +1,6 @@
 # legal-thesis skill 使用与交接说明
 
-本文档用于交接给用户或其他 agent，说明如何使用 `/Users/kansang/legal-thesis-skill-draft` 这个法学论文写作辅助 skill。
+本文档用于交接给用户或其他 agent，说明如何使用 `legal-thesis-skill` 这个法学论文写作辅助 skill。
 
 ## 一、这个 skill 是做什么的
 
@@ -48,7 +48,7 @@
 
 4. `references/local-corpus-style.md`
    - 当用户要求学习本机论文库作者、减少 AI 味、压缩啰嗦表达或改善句子衔接时必须读取。
-   - 该文件只依据 `/Users/kansang/Downloads/论文库txt` 原文 TXT；不得以 Obsidian 二次整理笔记中的通俗摘要和应试启发冒充作者语言。
+   - 该文件依据法学核心期刊论文库原文 TXT 编写；不得以 Obsidian 二次整理笔记中的通俗摘要和应试启发冒充作者语言。
    - 重点检查一句一判断、连接词的真实逻辑、段落的命题—依据—推论—边界结构，以及“并非……而是……”和同义复述是否过量。
 
 5. `references/article-corpus-study-notes.md`
@@ -302,7 +302,7 @@
 生成章节或定稿前，可以运行：
 
 ```bash
-python3 /Users/kansang/legal-thesis-skill-draft/scripts/review.py paper.md
+python3 scripts/review.py paper.md
 ```
 
 脚本能提示：

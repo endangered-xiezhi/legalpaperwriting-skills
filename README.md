@@ -21,7 +21,7 @@
 - `references/legal-writing-templates.md`：模板是否适合你的写作风格。
 - `references/law-review-article-patterns.md`：根据“法学家文章”语料提炼出的核心期刊式写法。
 - `references/legal-language-style.md`：标题、段首、论据、段尾、内部层次和整体文风规则。
-- `references/local-corpus-style.md`：根据 `/Users/kansang/Downloads/论文库txt` 原文 TXT 提炼句子连接、段落递进和 AI 味用语清理规则。
+- `references/local-corpus-style.md`：根据法学经典论文库原文提炼句子连接、段落递进和 AI 味用语清理规则。
 - `references/article-corpus-study-notes.md`：20 篇样本文献提炼出的结构、结论形态、论证风格和语言风格。
 - `references/terminology-bilingual.md`：术语是否需要补充具体部门法。
 - `scripts/lib/review_rules.py`：自动检查规则是否过严、漏检或误报。

@@ -1,6 +1,6 @@
 # 法学家文章语料学习笔记
 
-来源：`/Users/kansang/Downloads/法学家文章` 中 20 篇 PDF。本文档不再逐篇罗列结论，只保留可迁移的结论形态、论证风格和语言风格。后续模板以 `law-review-article-patterns.md` 为准。
+来源：《法学家》等法学核心期刊中 20 篇代表性文献。本文档不再逐篇罗列结论，只保留可迁移的结论形态、论证风格和语言风格。后续模板以 `law-review-article-patterns.md` 为准。
 
 ## 一、结构风格
 
