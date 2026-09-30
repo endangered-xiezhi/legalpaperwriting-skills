@@ -1,8 +1,14 @@
-# legal-thesis-skill-draft
+# legalpaperwriting-skills
 
-法学论文研究与写作辅助 skill 草稿。
+法学论文研究与写作辅助 skill（中文核心期刊与法学学位论文辅助工作流）。
 
-## 它从原 humanities-thesis-skill 改了什么
+## 致谢 / Acknowledgments
+
+本项目基于 [@ganzhi-black](https://github.com/ganzhi-black) 开源的 **[humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill)**（人文社科论文写作辅助 skill）转化与深度重构而来。
+
+衷心感谢原作者的优秀开源贡献！原项目严谨的工作流设计、学术规范意识与自动化工具链，为本项目针对法学学科（法教义学、规范解释、裁判规则归纳与法学引注规范）的专业化定制奠定了坚实的基础。
+
+## 它从原 [humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) 改了什么
 
 - 适用范围从人文社科论文改为法学论文、案例评析、开题报告和投稿修改。
 - 方法论从文本细读、理论框架，改为规范解释、案例研究、法教义学、比较法、法政策和实证法学。

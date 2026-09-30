@@ -2,6 +2,8 @@
 
 本文档用于交接给用户或其他 agent，说明如何使用 `legal-thesis-skill` 这个法学论文写作辅助 skill。
 
+> **致谢与渊源**：本项目基于 [@ganzhi-black](https://github.com/ganzhi-black) 的开源项目 [humanities-thesis-skill](https://github.com/ganzhi-black/humanities-thesis-skill) 转化而来，针对法学学科研究方法、案例规范与论证体系进行了深度重构。在此向原作者致以由衷敬意与感谢！
+
 ## 一、这个 skill 是做什么的
 
 这个 skill 用于辅助中文法学论文的研究、构思、写作、修改和审查，尤其适合模仿《法学研究》《法学家》一类核心期刊法学论文的论证气质。
